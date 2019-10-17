@@ -1,4 +1,4 @@
-### Assignment One (Responsive Portfolio) (With Media Queries)
+### Assignment One (Responsive Portfolio with Media Queries)
 
 ### Overview
 
