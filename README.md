@@ -6,13 +6,11 @@ In this assignment, I've created a responsive portfolio using media-query functi
 
 ### Objectives
 
-1. Copied the contents of `Basic-Portfolio` (the first homework solution) and pasted the mentioned files into the `Responsive-Portfolio` directory in GitHub. Cloned and downloaded onto my local drive.
+1. Copied the contents of `Basic-Portfolio` (the first homework solution) and pasted the mentioned files into the `Responsive_Portfolio` directory in GitHub. Cloned and downloaded onto my local drive.
 
-2. Inside my local `Bootstrap-Portfolio` repo, I created an `index.html`, `portfolio.html` and `contact.html`. Also included is an assets directory holding the CSS and Images folders for my portfolio.
+2. Inside my local `Responsive_Portfolio` repo, I created `index.html`, `portfolio.html` and `contact.html` files. Also included is an assets directory holding the CSS and Images folders for my portfolio.
 
-Note: Be sure not to include any dot files (e.g. .git, .gitignore) from the `Basic-Portfolio` repo.
-
-Inside my `Responsive-Portfolio` folder, are written media queries at the bottom of `styles.css`.
+Inside my `Responsive_Portfolio` folder, are written media queries at the bottom of `styles.css`.
 
     * Created three `@media screen` tags, each with one of these `max-width`s: `980px`, `768px` and `640px`.
         
@@ -21,7 +19,7 @@ Made the position of the header `static` (the default positioning) when the scre
 Included the `viewport` tag in each of my HTML files, to ensure the media-queries function worked as expected on mobile devices.
 
 
-3. I've deployed my new Responsive Bootstrap-powered portfolio (now with media queries!) to GitHub Pages noted below.
+3. I've deployed my new Responsive_portfolio (now with media queries!) to GitHub Pages as noted below.
 
 
 
