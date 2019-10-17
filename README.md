@@ -1,4 +1,5 @@
 Assignment One (Responsive Portfolio with Media Queries)
+
 Overview
 In this assignment, I've created a responsive portfolio using media-query functions to make the page scalable for [980px], [768px], and [640px] size devices.
 
