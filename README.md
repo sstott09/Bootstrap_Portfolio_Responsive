@@ -1,9 +1,11 @@
-Assignment One (Responsive Portfolio with Media Queries)
+### Assignment One (Responsive Portfolio with Media Queries)
 
-Overview
+### Overview
+
 In this assignment, I've created a responsive portfolio using media-query functions to make the page scalable for [980px], [768px], and [640px] size devices.
 
-Objectives
+### Objectives
+
 Copied the contents of Basic-Portfolio (the first homework solution) and pasted the mentioned files into the Responsive_Portfolio directory in GitHub. Cloned and downloaded onto my local drive.
 
 Inside my local Responsive_Portfolio repo, I created index.html, portfolio.html and contact.html files. Also included is an assets directory holding the CSS and Images folders for my portfolio.
@@ -16,5 +18,7 @@ Made the position of the header static (the default positioning) when the screen
 Included the viewport tag in each of my HTML files, to ensure the media-queries function worked as expected on mobile devices.
 
 I've deployed my new Responsive_portfolio (now with media queries!) to GitHub Pages as noted below.
-My Portfolio Links
+
+### My Portfolio Links
+
 
